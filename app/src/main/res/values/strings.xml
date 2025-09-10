@@ -1,6 +1,12 @@
 <resources>
     <string name="app_name">Android Hunt</string>
+    <string name="profile_name">Jaspal Kahlon</string>
+    <string name="profile_bio">CS @ TAMUSA. Android newbie. Streetwear + maps + AI.</string>
 
     <!-- [A] -->
-    <string name="hello_world">Hello World!</string>
+    <string name="hello_world">Hobbies</string>
+    <string name="hobby_1">Weight training</string>
+    <string name="hobby_2">Fashion photography</string>
+    <string name="hobby_3">Football Manager</string>
+
 </resources>
